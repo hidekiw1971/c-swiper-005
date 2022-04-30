@@ -35,8 +35,7 @@
 
 ## portfolio url:
 
-- https://c-0000.wtb.cfbx.jp/
-- https://css-md-0000.wtb.cfbx.jp/
+- https://c-0062.wtb.cfbx.jp/
 
 ## 参考にしたサイト
 
@@ -44,7 +43,7 @@
 
 ## 更新履歴
 
-- 2022/mm/dd 初版 作成完了
+- 2022/4/30 特に問題なく同一ページに swiper を複数存在できた。
 
 ## 環境・使い方
 
