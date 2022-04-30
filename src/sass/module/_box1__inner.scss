@@ -1,8 +1,7 @@
 @use "global" as *;
 .box1__inner {
-  width: 100%;
-  height: 100%;
-  background-color: #ff7f50;
+  // width: 100%;
+  // height: 100%;
 
   @include mq(md) {
   }

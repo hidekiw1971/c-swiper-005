@@ -1,13 +1,13 @@
 # compornent（共通部品）
 
 ## イメージ画像
-- chrome
- <img width="388" alt="image" src="https://user-images.githubusercontent.com/99580997/166088880-8855aebc-0d6e-4668-b6ca-d83ca113f8dc.png">
- <img width="780" alt="image" src="https://user-images.githubusercontent.com/99580997/166088890-b60bc682-888f-4f24-ab0c-f820724c2c0c.png">
- <img width="1165" alt="image" src="https://user-images.githubusercontent.com/99580997/166088904-7e0ce72c-ceca-4d82-9e1a-23a4a54d1ce4.png">
-- safari
- <img width="597" alt="image" src="https://user-images.githubusercontent.com/99580997/166088984-d479f399-5bd2-41b9-bd0a-d54359b5b4c0.png">
 
+- chrome
+  <img width="388" alt="image" src="https://user-images.githubusercontent.com/99580997/166088880-8855aebc-0d6e-4668-b6ca-d83ca113f8dc.png">
+  <img width="780" alt="image" src="https://user-images.githubusercontent.com/99580997/166088890-b60bc682-888f-4f24-ab0c-f820724c2c0c.png">
+  <img width="1165" alt="image" src="https://user-images.githubusercontent.com/99580997/166088904-7e0ce72c-ceca-4d82-9e1a-23a4a54d1ce4.png">
+- safari
+  <img width="597" alt="image" src="https://user-images.githubusercontent.com/99580997/166088984-d479f399-5bd2-41b9-bd0a-d54359b5b4c0.png">
 
 ## 概要
 
@@ -50,6 +50,7 @@
 
 ## 更新履歴
 
+- 2022/4/30 比率調整するように調整。
 - 2022/4/30 特に問題なく同一ページに swiper を複数存在できた。
 
 ## 環境・使い方
