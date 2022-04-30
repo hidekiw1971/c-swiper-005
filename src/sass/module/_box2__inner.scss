@@ -1,0 +1,11 @@
+@use "global" as *;
+.box2__inner {
+  width: 100%;
+  height: rem(100);
+  background-color: #ff7f50;
+
+  @include mq(md) {
+  }
+  @include mq(xl) {
+  }
+}
