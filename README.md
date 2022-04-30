@@ -1,8 +1,13 @@
 # compornent（共通部品）
 
 ## イメージ画像
+- chrome
+ <img width="388" alt="image" src="https://user-images.githubusercontent.com/99580997/166088880-8855aebc-0d6e-4668-b6ca-d83ca113f8dc.png">
+ <img width="780" alt="image" src="https://user-images.githubusercontent.com/99580997/166088890-b60bc682-888f-4f24-ab0c-f820724c2c0c.png">
+ <img width="1165" alt="image" src="https://user-images.githubusercontent.com/99580997/166088904-7e0ce72c-ceca-4d82-9e1a-23a4a54d1ce4.png">
+- safari
+ <img width="597" alt="image" src="https://user-images.githubusercontent.com/99580997/166088984-d479f399-5bd2-41b9-bd0a-d54359b5b4c0.png">
 
-- xxx
 
 ## 概要
 
@@ -18,7 +23,9 @@
 
 ## 注意事項
 
-- xxx
+- html -> `<div class="swiper mySwiper1">` `mySwiper1`クラスを追加する。
+- swiper css -> デフォルトでは`swiper`にサイズを設定してたが、`.mySwiper1`クラス名を変更してサイズを設定する。
+- `.swiper-slide`などは触らない。
 
 ## 使い方
 
